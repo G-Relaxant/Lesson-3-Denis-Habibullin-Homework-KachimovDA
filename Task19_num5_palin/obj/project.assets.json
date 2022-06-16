@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\Lesson-3-Denis-Habibullin-Homework-KachimovDA\\Task5_num5_palin\\Task5_num5_palin.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\Lesson-3-Denis-Habibullin-Homework-KachimovDA\\Task19_num5_palin\\Task5_num5_palin.csproj",
       "projectName": "Task5_num5_palin",
-      "projectPath": "C:\\Users\\user\\Desktop\\Lesson-3-Denis-Habibullin-Homework-KachimovDA\\Task5_num5_palin\\Task5_num5_palin.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\Lesson-3-Denis-Habibullin-Homework-KachimovDA\\Task19_num5_palin\\Task5_num5_palin.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\Lesson-3-Denis-Habibullin-Homework-KachimovDA\\Task5_num5_palin\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\Lesson-3-Denis-Habibullin-Homework-KachimovDA\\Task19_num5_palin\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"

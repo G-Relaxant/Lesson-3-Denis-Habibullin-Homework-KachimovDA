@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Lesson-3-Denis-Habibullin-Homework-KachimovDA\Task19_num5_palin\bin\Debug\net6.0\Task5_num5_palin.exe
+C:\Users\user\Desktop\Lesson-3-Denis-Habibullin-Homework-KachimovDA\Task19_num5_palin\bin\Debug\net6.0\Task5_num5_palin.deps.json
+C:\Users\user\Desktop\Lesson-3-Denis-Habibullin-Homework-KachimovDA\Task19_num5_palin\bin\Debug\net6.0\Task5_num5_palin.runtimeconfig.json
+C:\Users\user\Desktop\Lesson-3-Denis-Habibullin-Homework-KachimovDA\Task19_num5_palin\bin\Debug\net6.0\Task5_num5_palin.dll
+C:\Users\user\Desktop\Lesson-3-Denis-Habibullin-Homework-KachimovDA\Task19_num5_palin\bin\Debug\net6.0\Task5_num5_palin.pdb
+C:\Users\user\Desktop\Lesson-3-Denis-Habibullin-Homework-KachimovDA\Task19_num5_palin\obj\Debug\net6.0\Task5_num5_palin.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Lesson-3-Denis-Habibullin-Homework-KachimovDA\Task19_num5_palin\obj\Debug\net6.0\Task5_num5_palin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Lesson-3-Denis-Habibullin-Homework-KachimovDA\Task19_num5_palin\obj\Debug\net6.0\Task5_num5_palin.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Lesson-3-Denis-Habibullin-Homework-KachimovDA\Task19_num5_palin\obj\Debug\net6.0\Task5_num5_palin.AssemblyInfo.cs
+C:\Users\user\Desktop\Lesson-3-Denis-Habibullin-Homework-KachimovDA\Task19_num5_palin\obj\Debug\net6.0\Task5_num5_palin.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Lesson-3-Denis-Habibullin-Homework-KachimovDA\Task19_num5_palin\obj\Debug\net6.0\Task5_num5_palin.dll
+C:\Users\user\Desktop\Lesson-3-Denis-Habibullin-Homework-KachimovDA\Task19_num5_palin\obj\Debug\net6.0\refint\Task5_num5_palin.dll
+C:\Users\user\Desktop\Lesson-3-Denis-Habibullin-Homework-KachimovDA\Task19_num5_palin\obj\Debug\net6.0\Task5_num5_palin.pdb
+C:\Users\user\Desktop\Lesson-3-Denis-Habibullin-Homework-KachimovDA\Task19_num5_palin\obj\Debug\net6.0\Task5_num5_palin.genruntimeconfig.cache
+C:\Users\user\Desktop\Lesson-3-Denis-Habibullin-Homework-KachimovDA\Task19_num5_palin\obj\Debug\net6.0\ref\Task5_num5_palin.dll
