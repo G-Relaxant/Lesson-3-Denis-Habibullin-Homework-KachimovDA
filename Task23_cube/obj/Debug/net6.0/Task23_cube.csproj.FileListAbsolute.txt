@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Lesson-3-Denis-Habibullin-Homework-KachimovDA\Task23_cube\bin\Debug\net6.0\Task23_cube.exe
+C:\Users\user\Desktop\Lesson-3-Denis-Habibullin-Homework-KachimovDA\Task23_cube\bin\Debug\net6.0\Task23_cube.deps.json
+C:\Users\user\Desktop\Lesson-3-Denis-Habibullin-Homework-KachimovDA\Task23_cube\bin\Debug\net6.0\Task23_cube.runtimeconfig.json
+C:\Users\user\Desktop\Lesson-3-Denis-Habibullin-Homework-KachimovDA\Task23_cube\bin\Debug\net6.0\Task23_cube.dll
+C:\Users\user\Desktop\Lesson-3-Denis-Habibullin-Homework-KachimovDA\Task23_cube\bin\Debug\net6.0\Task23_cube.pdb
+C:\Users\user\Desktop\Lesson-3-Denis-Habibullin-Homework-KachimovDA\Task23_cube\obj\Debug\net6.0\Task23_cube.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Lesson-3-Denis-Habibullin-Homework-KachimovDA\Task23_cube\obj\Debug\net6.0\Task23_cube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Lesson-3-Denis-Habibullin-Homework-KachimovDA\Task23_cube\obj\Debug\net6.0\Task23_cube.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Lesson-3-Denis-Habibullin-Homework-KachimovDA\Task23_cube\obj\Debug\net6.0\Task23_cube.AssemblyInfo.cs
+C:\Users\user\Desktop\Lesson-3-Denis-Habibullin-Homework-KachimovDA\Task23_cube\obj\Debug\net6.0\Task23_cube.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Lesson-3-Denis-Habibullin-Homework-KachimovDA\Task23_cube\obj\Debug\net6.0\Task23_cube.dll
+C:\Users\user\Desktop\Lesson-3-Denis-Habibullin-Homework-KachimovDA\Task23_cube\obj\Debug\net6.0\refint\Task23_cube.dll
+C:\Users\user\Desktop\Lesson-3-Denis-Habibullin-Homework-KachimovDA\Task23_cube\obj\Debug\net6.0\Task23_cube.pdb
+C:\Users\user\Desktop\Lesson-3-Denis-Habibullin-Homework-KachimovDA\Task23_cube\obj\Debug\net6.0\Task23_cube.genruntimeconfig.cache
+C:\Users\user\Desktop\Lesson-3-Denis-Habibullin-Homework-KachimovDA\Task23_cube\obj\Debug\net6.0\ref\Task23_cube.dll
