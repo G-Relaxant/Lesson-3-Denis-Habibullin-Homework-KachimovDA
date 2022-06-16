@@ -1,14 +1,11 @@
 ﻿int number = Input("Введите число: ");
 
-//bool result = true;
+bool result = true;
 
 if(number > 9999 && number < 100000)
 {
-    int pervrazr = number / 10000;
-    int pyatrazr = number % 10;
-    int vtorrazr = (number / 1000) % 10;
-    int chetrazr = (number % 100) / 10;
-    if(pervrazr == pyatrazr && vtorrazr == chetrazr)
+    result = PositiveNumber(number);
+    if(result == true)
     {
         Console.WriteLine("Да, Ваше число является палиндромом");
     }
@@ -21,11 +18,8 @@ else
 {
     if(number > -100000 && number < -9999)
     {
-        int pervrazr = number / -10000;
-        int pyatrazr = number % -10 * -1;
-        int vtorrazr = (number / -1000) % 10;
-        int chetrazr = (number % -100) / -10;
-        if(pervrazr == pyatrazr && vtorrazr == chetrazr)
+        result = NegativeNumber(number);
+        if(result == true)
         {
             Console.WriteLine("Да, Ваше число является палиндромом");
         }
@@ -43,7 +37,7 @@ else
 
 
 
-/*int PositiveNumber(int a)
+bool PositiveNumber(int a)
 {
     int pervrazr = a / 10000;
     int pyatrazr = a % 10;
@@ -57,10 +51,11 @@ else
     {
         result = false;
     }
+    return result;
 }
 
 
-int NegativeNumber(int a)
+bool NegativeNumber(int a)
 {
     int pervrazr = number / -10000;
     int pyatrazr = number % -10 * -1;
@@ -74,8 +69,8 @@ int NegativeNumber(int a)
     {
         result = false;
     }
-}*/
-
+    return result;
+}
 
 
 int Input(string output)
